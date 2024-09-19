@@ -6,9 +6,9 @@ Run following commands :
 
 1. npm i -> to install necessary packages
    
-3. start your local MongoDB server and Redis client 
+3. start MongoDB server and Redis client locally 
    
-4. create .env file and paste the content below in it
+4. create .env file in root directory and paste the content below in it
 
 PORT=5000
 
